@@ -2,7 +2,7 @@
 - 👀 I’m a master student of Statistics
 - 🌱 I’m interested in machine learning, bayes methods, casual inference
 - 📫 How to reach me: menghanjin0613@gmail.com
-- 😄 Pronouns: You can call me Remi 
+- 😄 Pronouns: She/her
 
 <!---
 RemiJin0613/RemiJin0613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
